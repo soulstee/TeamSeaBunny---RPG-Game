@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "RPG Game.sln"
+    "dotnet.defaultSolution": "TeamSeaBunny---RPG-Game.sln"
 }
