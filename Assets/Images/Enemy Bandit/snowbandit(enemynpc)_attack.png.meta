@@ -111,35 +111,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 931b79ba66f223f4e9f828335b1922e2
-      internalID: 1441672400
+      spriteID: 9ad4e31068e56c24e90df58d59213521
+      internalID: 368640064
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
       name: snowbandit(enemynpc)_attack_1
-      rect:
-        serializedVersion: 2
-        x: 129
-        y: 84
-        width: 104
-        height: 168
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 346215df81f4edb4d8dd28f140ad7837
-      internalID: -2022353950
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: snowbandit(enemynpc)_attack_2
       rect:
         serializedVersion: 2
         x: 554
@@ -153,35 +132,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f19a50afb839d7a45a9a9f184bb039ae
-      internalID: 337839949
+      spriteID: 08fe0788697bd4047a48d7aa44cdc1e2
+      internalID: 1601881761
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: snowbandit(enemynpc)_attack_3
-      rect:
-        serializedVersion: 2
-        x: 528
-        y: 84
-        width: 104
-        height: 168
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 474f373920c33f8498a9ea6ab0f44766
-      internalID: 265551472
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: snowbandit(enemynpc)_attack_4
+      name: snowbandit(enemynpc)_attack_2
       rect:
         serializedVersion: 2
         x: 933
@@ -195,35 +153,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e57f4b3189b61144286eb10bff350c22
-      internalID: 99076235
+      spriteID: e47fef385e88f764882af07063d46829
+      internalID: -1512076219
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: snowbandit(enemynpc)_attack_5
-      rect:
-        serializedVersion: 2
-        x: 807
-        y: 83
-        width: 255
-        height: 169
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 89a6c15a7b906f649b0a819b755ba729
-      internalID: 766150629
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: snowbandit(enemynpc)_attack_6
+      name: snowbandit(enemynpc)_attack_3
       rect:
         serializedVersion: 2
         x: 1264
@@ -237,56 +174,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7e55e1a9285075f499c3b0ff0ff663c4
-      internalID: 2039819196
+      spriteID: 283a25594a2a0a246931ea19d99d0732
+      internalID: 1822551149
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: snowbandit(enemynpc)_attack_7
-      rect:
-        serializedVersion: 2
-        x: 1213
-        y: 83
-        width: 308
-        height: 157
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 40bfc799e7690e043934e86e6519d540
-      internalID: -672084277
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: snowbandit(enemynpc)_attack_8
-      rect:
-        serializedVersion: 2
-        x: 1719
-        y: 87
-        width: 157
-        height: 153
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8c3ec30f57deb50419aac2e413225e44
-      internalID: -1018878791
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: snowbandit(enemynpc)_attack_9
+      name: snowbandit(enemynpc)_attack_4
       rect:
         serializedVersion: 2
         x: 1733
@@ -300,14 +195,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5f360464d5806984a8a890321b5da0c6
-      internalID: -860654577
+      spriteID: dfd58c6a1115cdd4d82c9567ad1168a8
+      internalID: -1883176005
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: snowbandit(enemynpc)_attack_10
+      name: snowbandit(enemynpc)_attack_5
       rect:
         serializedVersion: 2
         x: 2132
@@ -321,14 +216,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e680b600749a6354ca4b34c811def0ab
-      internalID: -530452372
+      spriteID: c18b1ce5d78cded4abeae0abf8c0edbb
+      internalID: 1767706036
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: snowbandit(enemynpc)_attack_11
+      name: snowbandit(enemynpc)_attack_6
       rect:
         serializedVersion: 2
         x: 2533
@@ -342,8 +237,113 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2278db2a73aa6304f92b460bacd565a3
-      internalID: -1044867724
+      spriteID: 46e650478793ed742903b1130c8c6dd4
+      internalID: -1859523370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowbandit(enemynpc)_attack_7
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 84
+        width: 104
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b86b1692886110459ab60469c7bdf71
+      internalID: -1399467366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowbandit(enemynpc)_attack_8
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 84
+        width: 104
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e502f2a4ef96f4bb4a3bbb305a551f
+      internalID: -1612155738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowbandit(enemynpc)_attack_9
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 83
+        width: 270
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 935e2c1cee4836342a7faa6872ba2981
+      internalID: -171488274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowbandit(enemynpc)_attack_10
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 83
+        width: 308
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50033a7fd0d17ad4e942b5a0169674f1
+      internalID: 1681848251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowbandit(enemynpc)_attack_11
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 87
+        width: 157
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 253344d5310432146983604e7875fcf1
+      internalID: 2104916304
       vertices: []
       indices: 
       edges: []
@@ -363,8 +363,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 23f19d8fc9af3d14d9186438d81390dc
-      internalID: 440470954
+      spriteID: 246896c30aafffe4d9a090cf28303f68
+      internalID: 283843681
       vertices: []
       indices: 
       edges: []
@@ -384,8 +384,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0e6f32e877cbb5d44be20f006108da57
-      internalID: -466054651
+      spriteID: e51dbaf24366bee40a9e674644a00294
+      internalID: 299721382
       vertices: []
       indices: 
       edges: []
@@ -401,20 +401,20 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      snowbandit(enemynpc)_attack_0: 1441672400
-      snowbandit(enemynpc)_attack_1: -2022353950
-      snowbandit(enemynpc)_attack_10: -530452372
-      snowbandit(enemynpc)_attack_11: -1044867724
-      snowbandit(enemynpc)_attack_12: 440470954
-      snowbandit(enemynpc)_attack_13: -466054651
-      snowbandit(enemynpc)_attack_2: 337839949
-      snowbandit(enemynpc)_attack_3: 265551472
-      snowbandit(enemynpc)_attack_4: 99076235
-      snowbandit(enemynpc)_attack_5: 766150629
-      snowbandit(enemynpc)_attack_6: 2039819196
-      snowbandit(enemynpc)_attack_7: -672084277
-      snowbandit(enemynpc)_attack_8: -1018878791
-      snowbandit(enemynpc)_attack_9: -860654577
+      snowbandit(enemynpc)_attack_0: 368640064
+      snowbandit(enemynpc)_attack_1: 1601881761
+      snowbandit(enemynpc)_attack_10: 1681848251
+      snowbandit(enemynpc)_attack_11: 2104916304
+      snowbandit(enemynpc)_attack_12: 283843681
+      snowbandit(enemynpc)_attack_13: 299721382
+      snowbandit(enemynpc)_attack_2: -1512076219
+      snowbandit(enemynpc)_attack_3: 1822551149
+      snowbandit(enemynpc)_attack_4: -1883176005
+      snowbandit(enemynpc)_attack_5: 1767706036
+      snowbandit(enemynpc)_attack_6: -1859523370
+      snowbandit(enemynpc)_attack_7: -1399467366
+      snowbandit(enemynpc)_attack_8: -1612155738
+      snowbandit(enemynpc)_attack_9: -171488274
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
